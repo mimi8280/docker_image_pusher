@@ -5,6 +5,6 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #grafana/grafana-oss
-#忙碌盒
+# 装盒
 mktxp：最新
-busybox:1.31.1-amd64
+busybox:latest
